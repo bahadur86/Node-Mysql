@@ -33,7 +33,7 @@ $ git clone
 $ cd PROJECT_NAME
 $ npm install
 
- ##### After install create a databsae creadentials are store in database.js file
+ ##### After installation, create a database and creadentials are store in database.js file
 
 ## Running the project
 
